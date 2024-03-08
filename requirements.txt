@@ -1,0 +1,11 @@
+pandas
+numpy
+yfinance
+sqlalchemy
+psycopg2-binary
+jupyter
+matplotlib
+scikit-learn
+tensorflow
+yahoo_fin
+schedule

@@ -1,0 +1,16 @@
+{
+  "host": "localhost",
+  "dbname": "gold_prices_db",
+  "user": "postgres",
+  "password": "2003",
+  "port": "5432",
+
+  "staging_tables": {
+    "daily_gold_prices": {
+      "timestamp_column": "date"
+    },
+    "historical_gold_prices": {
+      "timestamp_column": "date"
+    }
+  }
+}
